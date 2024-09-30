@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F41BBF-3C4C-4281-9584-F6E0426959B0}|Presentation\\Presentation.csproj|c:\\users\\olguhan\\documents\\github\\todolist\\presentation\\controller\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F41BBF-3C4C-4281-9584-F6E0426959B0}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controller\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEFF42D-42AB-495C-95EB-C8BDCD5C8CBD}|Services\\Services.csproj|c:\\users\\olguhan\\documents\\github\\todolist\\services\\todoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEFF42D-42AB-495C-95EB-C8BDCD5C8CBD}|Services\\Services.csproj|solutionrelative:services\\todoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49340A1E-4E90-401F-9955-05F3C87C3748}|Repositories\\Repositories.csproj|c:\\users\\olguhan\\documents\\github\\todolist\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49340A1E-4E90-401F-9955-05F3C87C3748}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49340A1E-4E90-401F-9955-05F3C87C3748}|Repositories\\Repositories.csproj|c:\\users\\olguhan\\documents\\github\\todolist\\repositories\\context\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49340A1E-4E90-401F-9955-05F3C87C3748}|Repositories\\Repositories.csproj|solutionrelative:repositories\\context\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564225FD-719E-4003-8466-B68B8DF5C921}|ToDoList\\ToDoList.csproj|c:\\users\\olguhan\\documents\\github\\todolist\\todolist\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564225FD-719E-4003-8466-B68B8DF5C921}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564225FD-719E-4003-8466-B68B8DF5C921}|ToDoList\\ToDoList.csproj|c:\\users\\olguhan\\documents\\github\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564225FD-719E-4003-8466-B68B8DF5C921}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEFF42D-42AB-495C-95EB-C8BDCD5C8CBD}|Services\\Services.csproj|c:\\users\\olguhan\\documents\\github\\todolist\\services\\contract\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEFF42D-42AB-495C-95EB-C8BDCD5C8CBD}|Services\\Services.csproj|solutionrelative:services\\contract\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Repositories\\Context\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\Context\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Repositories\\Context\\ToDoDbContext.cs",
+              "RelativeToolTip": "Repositories\\Context\\ToDoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:25:07.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:22:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Services\\Contract\\IToDoService.cs",
+              "RelativeDocumentMoniker": "Services\\Contract\\IToDoService.cs",
+              "ToolTip": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Services\\Contract\\IToDoService.cs",
+              "RelativeToolTip": "Services\\Contract\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:20:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Services\\ToDoServices.cs",
+              "RelativeDocumentMoniker": "Services\\ToDoServices.cs",
+              "ToolTip": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Services\\ToDoServices.cs",
+              "RelativeToolTip": "Services\\ToDoServices.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:20:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Presentation\\Controller\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controller\\ToDoListController.cs",
+              "ToolTip": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\Presentation\\Controller\\ToDoListController.cs",
+              "RelativeToolTip": "Presentation\\Controller\\ToDoListController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:18:31.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:18:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\ToDoList\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ToDoList\\ServiceExtensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Olguhan\\Documents\\GitHub\\ToDoList\\ToDoList\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "ToDoList\\ServiceExtensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:18:04.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
